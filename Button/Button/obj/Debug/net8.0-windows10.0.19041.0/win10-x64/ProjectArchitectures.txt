@@ -1,0 +1,1 @@
+G:\Study\Оніщенко\Кросплатформ\CustomButton\Button\Button\Button.csproj;x64

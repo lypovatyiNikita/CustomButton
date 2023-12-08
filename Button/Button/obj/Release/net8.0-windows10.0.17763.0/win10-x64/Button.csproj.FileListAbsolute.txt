@@ -1,0 +1,5 @@
+G:\Button\Button\obj\Release\net8.0-windows10.0.17763.0\win10-x64\Button.csproj.AssemblyReference.cache
+G:\Button\Button\obj\Release\net8.0-windows10.0.17763.0\win10-x64\Button.GeneratedMSBuildEditorConfig.editorconfig
+G:\Button\Button\obj\Release\net8.0-windows10.0.17763.0\win10-x64\Button.AssemblyInfoInputs.cache
+G:\Button\Button\obj\Release\net8.0-windows10.0.17763.0\win10-x64\Button.AssemblyInfo.cs
+G:\Button\Button\obj\Release\net8.0-windows10.0.17763.0\win10-x64\Button.csproj.CoreCompileInputs.cache
